@@ -1,0 +1,23 @@
+{
+  "inspired_by": "slavingia/skills",
+  "project_name": "Minimalist Business Idea Validator",
+  "description": "Interactive business idea validator using the Minimalist Entrepreneur framework — 10 phases from community to review, with scoring and shareable results",
+  "tech_stack": ["Vite", "React", "TypeScript", "Tailwind CSS"],
+  "build_date": "2026-03-26",
+  "build_time_hours": 1,
+  "status": "complete",
+  "features": [
+    "10-phase validation framework (Community, Problem, MVP, Processize, First 100 Customers, Pricing, Marketing, Growth, Culture, Review)",
+    "Client-side analysis engine with keyword matching and idea type detection",
+    "Animated circular score gauge (0→100 count-up with color gradient red/yellow/green)",
+    "Confetti celebration effect for scores above 75",
+    "Shareable results via URL hash encoding",
+    "Phase navigation stepper with keyboard arrow key support",
+    "Staggered card animations with Intersection Observer",
+    "Dark theme with per-phase colored borders",
+    "Responsive 2-column grid on desktop, single column on mobile",
+    "Rotating placeholder idea suggestions"
+  ],
+  "live_url": "https://mvp.trollefsen.com/2026-03-26-business-validator/",
+  "github_url": ""
+}
